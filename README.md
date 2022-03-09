@@ -5,4 +5,4 @@ How to use
 - Install the plugin from www or from release
 - Inside Anki's main window got to Tools -> watch clipboard (start/stop)
 - Open Add window and select the field you want contents to be copied into.
-- setting can be changed from Tools -> Add-ons -> Double click 'watch clipboard' 
+- setting can be changed from Tools -> Add-ons -> Double click 'watch clipboard ' 
